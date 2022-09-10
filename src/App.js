@@ -6,7 +6,6 @@ class App extends Component {
   state = { 
     web3: null,
     accounts: null,
-    contract: '0x809257312750ebb56df43b82308c79ecc9b88c42',
     contracts: [
       {
         "name": "8/8 POAP",
